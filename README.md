@@ -5,5 +5,5 @@ neural networks for sentiment and stock price prediction
 [![Video]](https://youtu.be/WwWyV1qW_pE?si=eJ5QzUMIz0jkoXQi)
 
 # Demo Image
-![alt text](https://github.com/msnkimi2013/Pose_Game/blob/main/LSTM_Stock_Prediction/Images/1.jpg?raw=true)
+![alt text](https://github.com/msnkimi2013/LSTM_Stock_Prediction/blob/main/Images/1.jpg?raw=true)
 
